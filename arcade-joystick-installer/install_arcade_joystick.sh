@@ -69,4 +69,3 @@ fi
 
 # Finalizing
 echo "Installation complete. Rebooting Recalbox to apply changes..."
-reboot
