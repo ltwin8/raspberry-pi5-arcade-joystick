@@ -2,7 +2,7 @@
 
 # Configurations
 REPO_NAME="raspberry-pi5-arcade-joystick"
-RAW_REPO_URL="https://raw.githubusercontent.com/federicogualdi/$REPO_NAME/main/arcade-joystick-installer"
+RAW_REPO_URL="https://raw.githubusercontent.com/ltwin8/$REPO_NAME/main/arcade-joystick-installer"
 
 INSTALL_DIR="/recalbox/share/system/arcade_joystick"
 
