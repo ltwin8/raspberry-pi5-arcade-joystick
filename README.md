@@ -22,7 +22,7 @@ To install automatically on **Recalbox**, run the following command:
 
 ```bash
 cd /tmp
-curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/federicogualdi/raspberry-pi5-arcade-joystick/main/arcade-joystick-installer/install_arcade_joystick.sh | bash
+curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/ltwin8/raspberry-pi5-arcade-joystick/main/arcade-joystick-installer/install_arcade_joystick.sh | bash
 ```
 
 
