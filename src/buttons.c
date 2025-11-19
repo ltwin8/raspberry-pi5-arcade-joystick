@@ -12,7 +12,7 @@ struct button_map buttons[] = {
     {GPIO_L1, BTN_TL},
     {GPIO_R1, BTN_TR},
     {GPIO_SELECT, BTN_S},
-    {GPIO_ENTER, BTN_E}
+    {GPIO_START, BTN_E}
 };
 
 const int NUM_BUTTONS = sizeof(buttons) / sizeof(buttons[0]);
