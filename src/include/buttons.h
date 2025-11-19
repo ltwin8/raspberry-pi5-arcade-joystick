@@ -4,10 +4,10 @@
 #include <linux/uinput.h>
 
 // GPIO pin definitions for buttons
-#define GPIO_UP 5
-#define GPIO_DOWN 6
-#define GPIO_LEFT 13
-#define GPIO_RIGHT 19
+#define GPIO_UP 13
+#define GPIO_DOWN 5
+#define GPIO_LEFT 19
+#define GPIO_RIGHT 6
 #define GPIO_A 26
 #define GPIO_B 12
 #define GPIO_X 16
