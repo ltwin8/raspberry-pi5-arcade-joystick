@@ -14,8 +14,8 @@
 #define GPIO_Y 20
 #define GPIO_L1 18
 #define GPIO_R1 23
-#define GPIO_GO 21
-#define GPIO_ENTER 4
+#define GPIO_START 21
+#define GPIO_SELECT 4
 
 // Constants for axis limits and polling
 #define AXIS_MIN 0
