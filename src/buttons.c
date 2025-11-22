@@ -1,10 +1,6 @@
 #include "include/buttons.h"
 
 struct button_map buttons[] = {
-    {GPIO_UP, KEY_UP},
-    {GPIO_DOWN, KEY_DOWN},
-    {GPIO_LEFT, KEY_LEFT},
-    {GPIO_RIGHT, KEY_RIGHT},
     {GPIO_UP, BTN_DPAD_UP},
     {GPIO_DOWN, BTN_DPAD_DOWN},
     {GPIO_LEFT, BTN_DPAD_LEFT},
