@@ -45,8 +45,8 @@ done
 
 # Mount filesystem as rw
 mount -o remount,rw /
-sudo rm -r /recalbox/share/system/arcade_joystick/raspberry-pi5-arcade-joystick
-sudo rm -r /recalbox/share/system/arcade_joystick
+rm -r /recalbox/share/system/arcade_joystick/raspberry-pi5-arcade-joystick
+rm -r /recalbox/share/system/arcade_joystick
 # Move the extracted folder to the install directory
 mv "$TEMP_DIR" "$INSTALL_DIR"
 echo "Downlaoded data moved to $INSTALL_DIR"
